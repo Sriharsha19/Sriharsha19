@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" alt="sriharsha19" /> </p>
 <h1 align="center">Hi 👋, I'm Sriharsha Yelugu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate programmer from India</h3>
 <a  href = " https://dribbble.com/shots/2542587/attachments/2542587-Third-Winner-of-Toptal-s-STEM-Scholarships-for-Women?mode=media">
 <P align ="center"> <img src = "https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="Coding" width="500" > </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharsha19&label=Profile%20views&color=0e75b6&style=flat" alt="sriharsha19" /> </p>
