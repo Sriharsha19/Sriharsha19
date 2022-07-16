@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharsha19&label=Profile%20views&color=0e75b6&style=flat" alt="sriharsha19" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriharsha19" alt="sriharsha19" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" height="250" width="375" alt="GIF" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" />
 - 🔭 I’m currently working on **github projects**
 
 - 🌱 I’m currently learning **DSA,React Native**
