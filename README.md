@@ -1,8 +1,6 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" alt="sriharsha19" /> </p>
-<h1 align="center">Hi 👋, I'm Sriharsha Yelugu</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
-<a  href = " https://dribbble.com/shots/2542587/attachments/2542587-Third-Winner-of-Toptal-s-STEM-Scholarships-for-Women?mode=media">
-<P align ="center"> <img src = "https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" alt="Coding" width="500" > </p>
+<h1 align="center">Glad to see you here </h1>
+<h3 align="center"> I'm Sriharsha Yelugu . A Passionate Software Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharsha19&label=Profile%20views&color=0e75b6&style=flat" alt="sriharsha19" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriharsha19" alt="sriharsha19" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
