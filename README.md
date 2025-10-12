@@ -2,7 +2,7 @@
 <h1 align="center">👋 Glad to see you here </h1>
 
 <h1 align="center">I am Sriharsha Yelugu</h1>
-<h3 align="center"> Passionate about building innovative solutions on the platform.<</h3>
+<h3 align="center"> Passionate about building innovative solutions on the platform.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharsha19&label=Profile%20views&color=0e75b6&style=flat" alt="sriharsha19" /> </p>
 
