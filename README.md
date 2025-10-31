@@ -16,8 +16,10 @@
 - 💬 Ask me about **DSA,Android ,WEB,Java,Python**
 
 - 📫 How to reach me **yelugusriharsha1934@gmail.com**
+
   
-[![An image of @sriharsha19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sriharsha19)](https://holopin.io/@sriharsha19)
+  <img width="566" height="151" alt="image" src="https://github.com/user-attachments/assets/aadac6b6-40ac-4f94-8499-290730c19b06" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
